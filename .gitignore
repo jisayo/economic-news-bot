@@ -1,0 +1,10 @@
+.env
+session_name.session
+venv/
+__pycache__/
+*.pyc
+*.log
+bot.py.save
+bot.py.save.1
+alerted_events.json
+posted_links.json
