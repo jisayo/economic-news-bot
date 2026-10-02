@@ -1,0 +1,7 @@
+telethon==1.45.0
+feedparser==6.0.14
+requests==2.34.2
+python-dateutil==2.9.0.post0
+sentence-transformers==6.1.0
+python-dotenv==1.2.4
+torch
